@@ -1,98 +1,20 @@
 ---
 layout: page
-title: Ruby Warrior Install Notes!
-tagline: 23/04/13
+title: Next Meetup, May 2013
+tagline: 25/04/13
 ---
 {% include JB/setup %}
 
+#Javascript Testing in Ruby/Rails
+### w/ [Steve Mustafa](https://twitter.com/stevemustafa), May 2013
 
-Hi everyone! In preparation for tomorrow night I thought I'd post some notes on how to setup machines beforehand so we can get straight down to business tomorrow.
+This meetup we'll carry on with the testing theme but side track a bit from the proper Ruby/Rails domain to touch on another important part of the web development ecosystem, Javascript testing, provided to you by [Steve Mustafa](https://twitter.com/stevemustafa).
 
-Please make sure you have at least ruby-1.9.3 installed on your machine. That should be it.
+He will be discussing the different frameworks that exist out there for JS testing, how to set them up in the Rails ecosystem, and with specifity on the "how" when approaching some specific JS test cases my.  He'll be showcasing his own methods, which are absolutely awesome but your mileage may vary.
 
+###Meetup Location TBD
 
-###Mac
-	# if you do not have homebrew installed, taken from homebrew.sh
-	ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
-
-	#install git
-	brew install git
-
-	#install XCode from mac AppStore... 
-
-	#install rvm if you wish
-	curl -L https://get.rvm.io | bash -s stable
-
-	#reload shell
-	source ~/.rvm/scripts/rvm
-
-	#double-check rvm installation
-	type rvm | head -n 1 
-
-	#should output rvm is a function
-	#else follow instructions here https://rvm.io/rvm/install/
-
-	#double check system requirements
-	rvm requirements
-
-	# use new ruby
-	rvm use 2.0.0
-
-	# install rubywarrior
-	gem install rubywarrior
-
-	#run setup
-	rubywarrior
-
-	#follow prompts
-
-###Ubuntu
-Truncated for brewvity, largely the same as above, and I assume if you're running Linux you know how to install package using apt-get
-
-	sudo apt-get install gitcore
-	curl -L https://get.rvm.io | bash -s stable
-	source ~/.rvm/scripts/rvm
-
-
-	#reload shell
-	source ~/.rvm/scripts/rvm
-
-	#double-check rvm installation
-	type rvm | head -n 1 
-
-	#should output rvm is a function
-	#else follow instructions here https://rvm.io/rvm/install/
-
-	#double check system requirements
-	rvm requirements
-	#install any missing dependencies
-	rvm use 2.0.0
-
-	# install rubywarrior
-	gem install rubywarrior
-
-	#run setup
-	rubywarrior
-
-	#follow prompts
-
-###Windows
-
-Fair Warning! I seriously had to look this up, should be correct but I cant guarantee anything.
-
-	#download http://rubyinstaller.org/downloads/
-	#get ruby 2.0-p0, because new stuff is fun
-
-	#install your git client of choice!
-	# I'm assuming people still use TortoiseGit?
-	# or use the fancy github windows client http://windows.github.com/
-
-
-
-Thanks all, see you tomorrow night!!!
-
-[Ben](http://twitter.com/bennett_stevens)
-
+A big thanks to everyone! See you all on the 14th.
 
 
 Past Meetups
