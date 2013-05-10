@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Next Meetup, May 2013
+title: Next Meetup, May 2013, 6:30 pm
 tagline: 25/04/13
 ---
 {% include JB/setup %}
@@ -12,7 +12,15 @@ This meetup we'll carry on with the testing theme but side track a bit from the 
 
 He will be discussing the different frameworks that exist out there for JS testing, how to set them up in the Rails ecosystem, and with specifity on the "how" when approaching some specific JS test cases my.  He'll be showcasing his own methods, which are absolutely awesome but your mileage may vary.
 
-###Meetup Location TBD
+###Meeting Location
+Assembly YYC
+Suite 400  |  119 14th Street NW
+Calgary, AB, Canada
+
+<br/>
+<br/>
+<br/>
+
 
 A big thanks to everyone! See you all on the 14th.
 
