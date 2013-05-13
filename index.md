@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Next Meetup, May 2013, 6:30 pm
-tagline: 25/04/13
+title: Next Meetup, To Be Announced.
+tagline: May/June 2013
 ---
 {% include JB/setup %}
 
-#Javascript Testing in Ruby/Rails
-### w/ [Steve Mustafa](https://twitter.com/stevemustafa), May 2013
+#To Be Announced
 
-This meetup we'll carry on with the testing theme but side track a bit from the proper Ruby/Rails domain to touch on another important part of the web development ecosystem, Javascript testing, provided to you by [Steve Mustafa](https://twitter.com/stevemustafa).
 
-He will be discussing the different frameworks that exist out there for JS testing, how to set them up in the Rails ecosystem, and with specifity on the "how" when approaching some specific JS test cases my.  He'll be showcasing his own methods, which are absolutely awesome but your mileage may vary.
+<br/>
+<br/>
+<br/>
+<br/>
 
 ###Meeting Location
 Assembly YYC
