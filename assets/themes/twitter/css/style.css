@@ -71,3 +71,7 @@ div.navbar a.brand {
 div.navbar a.brand img {
   height: 28px;
 }
+
+div.page-header h1 small {
+  display: block;
+}
