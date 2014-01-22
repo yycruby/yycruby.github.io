@@ -4,13 +4,11 @@ title: YYC Ruby
 tagline: Calgary Ruby User Group
 ---
 {% include JB/setup %}
-#Rails Performance Optimization
-## w/ [Tyler Mercier](https://twitter.com/tylermercier) and [Mo Khan](https://twitter.com/mocheen) of [Uppercut](http://madebyuppercut.com/)
-
-Learn how to test the performance of your rails applications and ways to improve. We will demonstrate simple changes to increase throughput and reduce response time for a rails app. Topics will include asset optimization, using a CDN, caching and more.
-
-Thanks! See you all then! 
-[@TylerMercier](https://twitter.com/tylermercier)
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
 
 ###Location
 <address>
