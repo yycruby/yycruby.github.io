@@ -12,11 +12,11 @@ tagline: Calgary Ruby User Group
 </div>
 
 ###Time/Date
-  Tuesday February 18th, 6:30
+  Tuesday, May 13, 2014
   
-  [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&dates=20140219T013000Z%2f20140219T043000Z&sprop=website%3ahttp%3a%2f%2fwww.meetup.com%2fCalgaryRails%2fevents%2f159650582%2f&text=Rubygems%2C+Rails+4.1+and+RSpec+syntax%3A+Oh+my%21&location=Assembly+-+119+-+14+Street+NW+%28Floor+4%29+-+Calgary%2C+AB+%2C+Canada&sprop=name:Calgary+Ruby+on+Rails+Group&details=For+full+details%2C+including+the+address%2C+and+to+RSVP+see%3A%0Ahttp%3A%2F%2Fwww.meetup.com%2FCalgaryRails%2Fevents%2F159650582%2F%0ACalgary+Ruby+on+Rails+Group%0AThree+smaller+presentations.%0AMore+info+posted+as+it+becomes+solidified.%0ASpeakers%0ATim+Uruski+%26amp%3B+Ben+Stevenson%0ARails+4.1%3A+Nifty+Bits+-+Ben%0AI%26%23%26hellip%3B)
+  [Google Calendar](http://www.google.com/calendar/event?action=TEMPLATE&dates=20140514T003000Z%2f20140514T033000Z&sprop=website%3ahttp%3a%2f%2fwww.meetup.com%2fCalgaryRails%2fevents%2f176442912%2f&text=Lightning+Talks%21&location=Assembly+-+119+-+14+Street+NW+%28Floor+4%29+-+Calgary%2C+AB+%2C+Canada&sprop=name:Calgary+Ruby+on+Rails+Group&details=For+full+details%2C+including+the+address%2C+and+to+RSVP+see%3A%0Ahttp%3A%2F%2Fwww.meetup.com%2FCalgaryRails%2Fevents%2F176442912%2F%0ACalgary+Ruby+on+Rails+Group%0ALightning+Talks+are+short+talks+given+by+anyone+in+the+group.+300+seconds+long+max.%0AThis+is+your+chance+to+talk+about+whatever+you+want.%0ARuby%2C+%26hellip%3B)
 
-  [iCal](http://www.meetup.com/CalgaryRails/events/159650582/ical/Rubygems%2C+Rails+4.1+and+RSpec+syntax%3A+Oh+my%21.ics)
+  [iCal](http://www.meetup.com/CalgaryRails/events/176442912/ical/Lightning+Talks%21.ics)
 
 ###Location
 <address>
