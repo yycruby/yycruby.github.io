@@ -6,13 +6,6 @@ tagline: "Ruby/Rails opportunities in Calgary"
 ---
 {% include JB/setup %}
 
-## [![AppColony](assets/images/app-colony-logo.png)<small>Web Developer</small>](http://appcolony.ca/backenddev.html){:target="_blank"}##
-{: .logo.app-colony}
-
-[Check out the job posting here](http://appcolony.ca/backenddev.html){:target="_blank"}
-
----
-
 ## [![BlackSquare](assets/images/bsq-logo.png)<small>Ruby on Rails Developer</small>](http://blacksquare.ca/category/career){:target="_blank"}##
 {: .logo.bsq}
 
