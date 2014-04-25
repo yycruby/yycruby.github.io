@@ -2,17 +2,34 @@ h2.logo a img {
   width: 300px;
 }
 
-h2.logo-pf {
-  width: 300px;
+h2.logo.pf {
+  
 }
 
-h2.logo-pf a {
-  width: 300px;
+h2.logo.pf a {
   background-color: #333;
   padding: 10px 10px 16px 10px;
   margin-bottom: 5px;
 }
 
-h2.logo-pf a img {
+h2.logo.pf a img {
   width: 160px;
+}
+
+h2.logo.bsq {
+}
+
+h2.logo.bsq a {
+  width: 300px;
+  background-color: white;
+  padding: 10px 10px 16px 10px;
+  margin-bottom: 5px;
+}
+
+h2.logo.bsq a img {
+  width: 160px;
+}
+
+h2.logo.clio a img {
+  width: 200px;
 }

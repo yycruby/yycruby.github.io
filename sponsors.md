@@ -15,7 +15,7 @@ Founded in 2010, Startup Calgary is an entrepreneur-led, volunteer-driven grassr
 ---
 
 ## [![Clio](assets/images/clio-logo.png "Clio")](http://goclio.com)##
-{: .logo}
+{: .logo.clio}
 
 ### [Clio](http://goclio.com) <small>Refreshments, Pizza, Being Awesome</small>###
 
