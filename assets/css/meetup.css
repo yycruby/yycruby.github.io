@@ -2,6 +2,10 @@ div.page-header h1 small {
   display: inline;
 }
 
+h2 small {
+  margin-left: 10px;
+}
+
 h2.logo a img {
   width: 300px;
 }
@@ -36,4 +40,16 @@ h2.logo.bsq a img {
 
 h2.logo.clio a img {
   width: 200px;
+}
+
+h2.logo.source-fire a img {
+  width: 200px;
+  background-color: #161616;
+  padding: 5px;
+}
+
+h2.logo.app-colony a img {
+  width: 100px;
+  background-color: #161616;
+  padding: 9px; 
 }
