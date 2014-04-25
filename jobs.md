@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Job Board"
-tagline: "Alphabetical Order"
-description: "Ruby/Rails opporunities in Calgary"
+description: "Alphabetical Order (keeping it civil)"
+tagline: "Ruby/Rails opportunities in Calgary"
 ---
 {% include JB/setup %}
 
