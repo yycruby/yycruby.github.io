@@ -1,3 +1,7 @@
+div.page-header h1 small {
+  display: inline;
+}
+
 h2.logo a img {
   width: 300px;
 }
@@ -27,7 +31,7 @@ h2.logo.bsq a {
 }
 
 h2.logo.bsq a img {
-  width: 160px;
+  width: 250px;
 }
 
 h2.logo.clio a img {

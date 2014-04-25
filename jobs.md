@@ -1,11 +1,10 @@
 ---
 layout: page
 title: "Job Board"
-description: "Ruby on Rails opporunities in Calgary"
+tagline: "Alphabetical Order"
+description: "Ruby/Rails opporunities in Calgary"
 ---
 {% include JB/setup %}
-
-(Alphabetical Order)
 
 ## [![BlackSquare](assets/images/bsq-logo.png) <small>Ruby on Rails Developer</small>](http://blacksquare.ca/category/career)##
 {: .logo.bsq}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sponsors"
-description: "The companies helping us make it happen!"
+tagline: "The companies helping us make it happen!"
 ---
 {% include JB/setup %}
 
@@ -22,7 +22,7 @@ Founded in 2010, Startup Calgary is an entrepreneur-led, volunteer-driven grassr
 ---
 
 ## [![Assembly YYC Logo](assets/images/assembly-logo.png "Assembly YYC")](http://assemblycs.com)##
-{: .logo}
+{: .logo.clio}
 
 ###[Assembly Co-Working Space](http://assemblycs.com) <small>Meeting Space</small> ###
 
@@ -31,7 +31,7 @@ Coworking spaces are a great alternative for start-ups, small to mid-size busine
 ---
 
 ## [![Noria Technologies Logo](assets/images/noria-logo.png "Noria Technologies")](http://noriatechnologies.com/)##
-{: .logo}
+{: .logo.clio}
 
 ### [Noria Technologies](http://noriatechnologies.com/) <small>Long time supporter of the group.</small> ###
 
