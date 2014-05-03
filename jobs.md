@@ -24,6 +24,13 @@ Clio is a fast growing Rails shop located in Vancouver building collaboration to
 
 ---
 
+## [![Dissolve](assets/images/dissolve-logo.png "Dissolve")](http://www.dissolve.com/){:target="_blank"}<small>Ruby Developer</small>##
+{: .logo.dissolve}
+
+[Shoot them a message](http://www.dissolve.com/contact){:target="_blank"}
+
+---
+
 ## [![PetroFeed](assets/images/petrofeed-logo.png "Petrofeed")](http://petrofeed.com/company/careers){:target="_blank"}<small>Senior Platform Developer</small>##
 {: .logo.pf}
 

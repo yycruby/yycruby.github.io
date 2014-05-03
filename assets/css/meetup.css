@@ -53,3 +53,8 @@ h2.logo.app-colony a img {
   background-color: #161616;
   padding: 9px; 
 }
+
+h2.logo.dissolve a img {
+  width: 200px;
+  background-color: black;
+}
