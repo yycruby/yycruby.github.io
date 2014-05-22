@@ -58,3 +58,9 @@ h2.logo.dissolve a img {
   width: 200px;
   background-color: black;
 }
+
+h2.logo.vogogo a img {
+  width: 250px;
+  background-color: black;
+  padding: 5px;
+}

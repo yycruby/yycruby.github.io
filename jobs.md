@@ -47,3 +47,20 @@ We’re looking for an extremely passionate individual who cares about building 
 Recently purchased by Cisco, SourceFire has a large Ruby office in downtown Calgary.
 
 [Check out the job posting here](https://www.cisco.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=959059&CurrentPage=1){:target="_blank"}
+
+---
+
+## [![Vogogo](assets/images/vogogo-logo.png)](https://www.vogogo.com/){:target="_blank"}<small>Principal Software Engineer</small>##
+{: .logo.vogogo}
+
+Vogogo is an exciting, well-funded startup in the payment processing space.  With skyrocketing interest in crypto-currencies (“Bitcoin”), and the public’s desire for disruption in our industry, Vogogo is uniquely positioned to capitalize on market opportunities and create explosive growth. 
+ 
+We’re building a “dream team” of Calgary’s best talent by hiring experienced, pragmatic, and smart individuals who share our vision and can simply “get things done” in any programming language we need.
+ 
+As a Principal Software Engineer at Vogogo, you would be in on the ground floor of a small product development team — designing, building, testing, and deploying amazing features and new technology in a fast-paced startup environment.
+ 
+You would be a key hire and expected to work closely with the CTO by taking responsibility for high level business goals, creating solutions, and delivering value to our customers.
+ 
+<i>Vogogo only accepts Calgary-based applicants.</i>
+
+[Shoot them a message](https://www.vogogo.com/#Contact){:target="_blank"}
