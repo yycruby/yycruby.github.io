@@ -64,3 +64,10 @@ You would be a key hire and expected to work closely with the CTO by taking resp
 <i>Vogogo only accepts Calgary-based applicants.</i>
 
 [Shoot them a message](https://www.vogogo.com/#Contact){:target="_blank"}
+
+---
+
+###Please note, while we stive to keep this list current, it's possible that some of these roles have been filled.
+
+###Good Luck!
+
