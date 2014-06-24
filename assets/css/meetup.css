@@ -187,6 +187,12 @@ h2.logo.dissolve a img {
   background-color: black;
 }
 
+h2.logo.vogogo a img {
+  width: 250px;
+  background-color: black;
+  padding: 5px;
+}
+
 #map-override {
   background:transparent; 
   position: relative; 
@@ -194,4 +200,3 @@ h2.logo.dissolve a img {
   height: 350px; /* your iframe height */
   top: 350px;  /* your iframe height */
   margin-top:-350px;  /* your iframe height */
-}
