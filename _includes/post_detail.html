@@ -1,6 +1,7 @@
 <h1 class="entry-title">
 {% if post.title %}
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ post.url }}">{{ post.title }}{% if post.date %}  <small>{{ post.date | date_to_long_string }}</small>{% endif %}</a>
 {% endif %}
 </h1>
+
 <div class="entry-content">{{ content }}</div>
