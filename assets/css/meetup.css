@@ -1,9 +1,138 @@
+
+.navbar {
+  margin-bottom: 0;
+}
+.navbar .navbar-brand {
+  padding-top: 10px;
+  padding-left: 1rem;
+}
+.navbar > li:hover {
+  background-color: #f9f9f9;
+}
+nav.navbar div.navbar-header a.navbar-brand img {
+  height: 28px;
+}
+
+div.page-header {
+  margin-top: 1rem;
+  padding: 20px 20px 20px 0;
+}
+
+div.panel h1 {
+  margin-top: 0;
+}
+
+div.page-header-wrapper {
+  margin-top: 0;
+  text-shadow: 0 1px 0 rgba(0,0,0,.1);
+}
+
+div.page-header h1 {
+  margin-top: 0;
+}
+
+div.page-header h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: large;
+}
+
 div.page-header h1 small {
   display: inline;
 }
 
+div.page-header div img {
+  width: 100%;
+  vertical-align: middle
+}
+
 h2 small {
   margin-left: 10px;
+}
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px; }
+
+.container-narrow > hr {
+  margin: 30px 0; }
+
+/* posts index */
+.post > h3.title {
+  position: relative;
+  padding-top: 10px; }
+
+.post > h3.title span.date {
+  position: absolute;
+  right: 0;
+  font-size: 0.9em; }
+
+.post > .more {
+  margin: 10px 0;
+  text-align: left; }
+
+/* post-full*/
+.post-full .date {
+  margin-bottom: 20px;
+  font-weight: bold; }
+
+/* tag_box */
+.tag_box {
+  list-style: none;
+  margin: 0;
+  overflow: hidden; }
+
+.tag_box li {
+  line-height: 28px; }
+
+.tag_box li i {
+  opacity: 0.9; }
+
+.tag_box.inline li {
+  float: left; }
+
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #eee;
+  color: #555;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px dashed #cccccc; }
+
+.tag_box a span {
+  vertical-align: super;
+  font-size: 0.8em; }
+
+.tag_box a:hover {
+  background-color: #e5e5e5; }
+
+.tag_box a.active {
+  background: #57A957;
+  border: 1px solid #4c964d;
+  color: #FFF; }
+
+div.navbar a.brand {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+div.navbar a.brand img {
+  height: 28px;
+}
+
+div.page-header h1 small {
+  display: block;
+}
+
+
+div.pagination ul {
+  list-style: none;
+}
+
+div.pagination ul li {
+  display: inline;
+  margin-right: 2rem;
 }
 
 h2.logo a img {
@@ -29,7 +158,6 @@ h2.logo.bsq {
 
 h2.logo.bsq a {
   width: 300px;
-  background-color: white;
   padding: 10px 10px 16px 10px;
   margin-bottom: 5px;
 }
@@ -57,4 +185,13 @@ h2.logo.app-colony a img {
 h2.logo.dissolve a img {
   width: 200px;
   background-color: black;
+}
+
+#map-override {
+  background:transparent; 
+  position: relative; 
+  width: 423px;
+  height: 350px; /* your iframe height */
+  top: 350px;  /* your iframe height */
+  margin-top:-350px;  /* your iframe height */
 }
