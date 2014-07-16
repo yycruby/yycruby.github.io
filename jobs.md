@@ -42,6 +42,18 @@ We’re looking for an extremely passionate individual who cares about building 
 </div>
 ---
 <div class="well" markdown="1">
+## Recruiters<small>Contacted in the past month</small>##
+
+### CyberCoders - Lead Software Developer Needed, RoR
+Contact - [Chase Parlee](mailto:Chase.Parlee@CyberCoders.com)
+<br/>
+
+### Friday Professional Group - Ruby on Rails, Contract for Hire
+Contact - [Mike Eastgaard](mailto:mike.eastgaard@friday.ca)
+
+</div>
+---
+<div class="well" markdown="1">
 ## [![SourceFire](assets/images/sourcefire-logo.png)](https://www.cisco.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=959059&CurrentPage=1){:target="_blank"}<small>Software Engineer</small>##
 {: .logo.source-fire}
 
