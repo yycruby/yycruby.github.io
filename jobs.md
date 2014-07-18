@@ -46,10 +46,6 @@ We’re looking for an extremely passionate individual who cares about building 
 
 ### CyberCoders - Lead Software Developer Needed, RoR
 Contact - [Chase Parlee](mailto:Chase.Parlee@CyberCoders.com)
-<br/>
-
-### Friday Professional Group - Ruby on Rails, Contract for Hire
-Contact - [Mike Eastgaard](mailto:mike.eastgaard@friday.ca)
 
 </div>
 ---
