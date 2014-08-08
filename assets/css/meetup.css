@@ -1,3 +1,6 @@
+.badge.badge-error {
+  background-color: red;
+}
 
 .navbar {
   margin-bottom: 0;
@@ -200,3 +203,33 @@ h2.logo.vogogo a img {
   height: 350px; /* your iframe height */
   top: 350px;  /* your iframe height */
   margin-top:-350px;  /* your iframe height */
+}
+
+ul.posts {
+  list-style: none;
+}
+
+li.post.meetup img {
+  width: 3rem;
+}
+
+footer {
+  margin-top: 3rem;
+  text-align: center;
+  border-top: 1px solid #eee;
+  padding: 5rem;
+}
+
+div.responsive-calendar {
+  margin-top: 2rem;
+}
+
+div.responsive-calendar h4 {
+
+}
+
+div.responsive-calendar hr {
+  margin: 3rem auto 2rem auto;
+  width: 100%;
+  text-align: middle;
+}

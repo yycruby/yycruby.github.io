@@ -1,0 +1,34 @@
+<div class="responsive-calendar">
+  <div class="controls">
+      <a class="pull-left" data-go="prev"><div class="btn btn-info"><i class="glyphicon glyphicon-chevron-left"></i></div></a>
+      <h4><span data-head-year></span> <span data-head-month></span></h4>
+      <a class="pull-right" data-go="next"><div class="btn btn-info"><i class="glyphicon glyphicon-chevron-right"></i></div></a>
+  </div><hr/>
+  <div class="day-headers">
+    <div class="day header">Mon</div>
+    <div class="day header">Tue</div>
+    <div class="day header">Wed</div>
+    <div class="day header">Thu</div>
+    <div class="day header">Fri</div>
+    <div class="day header">Sat</div>
+    <div class="day header">Sun</div>
+  </div>
+  <div class="days" data-group="days">
+    
+  </div>
+</div>
+
+<script>
+  $( document ).ready( function() {
+    $('.responsive-calendar').responsiveCalendar(
+      {
+        events: {
+          {% for post in site.posts %}
+            "{{ post.date | date: "%Y-%m-%d" }}": { "badgeClass": "badge-error", "url": "{{ post.url }}", "number": 1},
+          {% endfor %}
+        }
+      }
+
+      );
+  });
+</script>
