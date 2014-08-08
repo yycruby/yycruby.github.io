@@ -41,20 +41,8 @@ We’re looking for an extremely passionate individual who cares about building 
 [Check out their careers section here](https://www.petrofeed.com/company/careers/platform){:target="_blank"}
 </div>
 ---
-<div class="well" markdown="1">
-## [![SourceFire](assets/images/sourcefire-logo.png)](https://www.cisco.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=959059&CurrentPage=1){:target="_blank"}<small>Software Engineer</small>##
-{: .logo.source-fire}
-
-Recently purchased by Cisco, SourceFire has a large Ruby office in downtown Calgary.
-
-[Check out the job posting here](https://www.cisco.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=959059&CurrentPage=1){:target="_blank"}
-</div>
-
----
 
 <div class="well" markdown="1">
-
-
 ## [![Vogogo](assets/images/vogogo-logo.png)](https://www.vogogo.com/){:target="_blank"}<small>Principal Software Engineer</small>##
 {: .logo.vogogo}
 
