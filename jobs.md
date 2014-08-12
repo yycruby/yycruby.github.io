@@ -24,6 +24,16 @@ Clio is a fast growing Rails shop located in Vancouver building collaboration to
 [Check out the Clio careers section here](http://goclio.com/careers){:target="_blank"}
 </div>
 ---
+
+<div class="well" markdown="1">
+## [![GOmentr](assets/images/gomentr_logo.jpg "Clio")<small>Senior Developer</small>](https://www.gomentr.com/resource/show/596){:target="_blank"}##
+
+We are looking for a senior developer to play a key role in helping us change the world of business. We have a big vision and this is a ground floor position in achieving it, so it will have both the challenge and reward to match.
+
+[Check out the GOMentr job posting here](https://www.gomentr.com/resource/show/596){:target="_blank"}
+</div>
+---
+
 <div class="well" markdown="1">
 ## [![PetroFeed](assets/images/petrofeed-logo.png "Petrofeed")](http://petrofeed.com/company/careers){:target="_blank"}<small>Senior Platform Developer</small>##
 {: .logo.pf}
