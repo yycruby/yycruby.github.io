@@ -26,24 +26,6 @@ Clio is a fast growing Rails shop located in Vancouver building collaboration to
 ---
 
 <div class="well" markdown="1">
-##Contracting
-
-### Aaron Rustad([@aaronrustad](https://twitter.com/aaronrustad), arustad -at- anassina.com)
-
-I'm looking for a solid developer that would be interested in a 3 - 6 month remote contract, with a possibility of extension.  My team is developing a web based video distribution and syndication platform/service for a large US media company. We're currently streaming upwards of 100 million high quality videos a month with the intention of reaching 250 million in 2015.
-
-Technologies we're using in include Rails (of course), Redis, Elasticsearch, Ember.js, PostgreSQL, We're fully cloud deployed on AWS.
-
-Our team is small and talented, consisting of myself and 3 other engineers and while our client is large, we're very much focused on delivering code in an developer-friendly manner. We love small features, continuous deployments and we ship to production several times a day (I think our record is 12 times) with zero downtime. This happens on our live site with upwards of 10,000 req/m. We're big fans of Github, code reviews, and Pull Requests which all tie directly into our deployment pipeline.
-
-We communicate primarily via HipChat, and occasionally using Google Hangouts. We have two scheduled meetings a week, one lasting for ~ 10 minutes, the other about 30 mins. We're fans of coding, not meetings.  If this sounds like a good fit for you, or if you have any question, please contact me!
-
-
-</div>
-
----
-
-<div class="well" markdown="1">
 ## [![GOmentr](assets/images/gomentr_logo.jpg "Clio")<small>Senior Developer</small>](https://www.gomentr.com/resource/show/596){:target="_blank"}##
 
 We are looking for a senior developer to play a key role in helping us change the world of business. We have a big vision and this is a ground floor position in achieving it, so it will have both the challenge and reward to match.
