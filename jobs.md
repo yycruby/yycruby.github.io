@@ -44,7 +44,8 @@ David Cooper(david.cooper -at- oilfieldx.com)
 </div>
 ---
 <div class="well" markdown="1">
-## [![PetroFeed](assets/images/petrofeed-logo.png "Petrofeed")](http://petrofeed.com/company/careers){:target="_blank"}<small>Senior Platform Developer</small>##{: .logo.pf}
+## [![PetroFeed](assets/images/petrofeed-logo.png "Petrofeed")](http://petrofeed.com/company/careers){:target="_blank"}<small>Senior Platform Developer</small>##
+{: .logo.pf}
  
  <br>
  We’re looking for an extremely passionate individual who cares about building amazing products that people love to use.
