@@ -7,6 +7,18 @@ tagline: "Ruby/Rails opportunities in Calgary"
 {% include JB/setup %}
 
 <div class="well" markdown="1">
+## [![AppColony](assets/images/app-colony-logo.png)<small>Senior Rails Developer</small>](http://careers.stackoverflow.com/jobs/78745/senior-rails-developer-build-scale-appcolony){:target="_blank"}##
+{: .logo.app-colony}
+
+AppColony needs a talented, experienced Ruby on Rails developer who is passionate about making highly usable web apps with scalable RESTful APIs. You are comfortable designing databases and optimizing queries, but you live for making great UIs that push the limits of the web. 
+
+As an incubator, we create original business ideas that we can research, develop and bring to market. We have a few products out in the marketplace that are gaining traction, like MakeShift and Pint Pass. We need help scaling and growing those apps. We also do custom mobile app development for clients. We've worked with some really great clients, including a project for Team Canada's Olympic Mens hockey team. There are a lot more projects to come.
+
+[Check out the job posting here](http://careers.stackoverflow.com/jobs/78745/senior-rails-developer-build-scale-appcolony){:target="_blank"}
+</div>
+
+---
+<div class="well" markdown="1">
 ## [![BlackSquare](assets/images/bsq-logo.png)<small>Ruby on Rails Developer</small>](http://blacksquare.ca/category/career){:target="_blank"}##
 {: .logo.bsq}
 
