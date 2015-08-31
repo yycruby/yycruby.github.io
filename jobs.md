@@ -38,24 +38,6 @@ Clio is a fast growing Rails shop located in Vancouver building collaboration to
 ---
 
 <div class="well" markdown="1">
-## [![GOmentr](assets/images/gomentr_logo.jpg "Clio")<small>Senior Developer</small>](https://www.gomentr.com/resource/show/596){:target="_blank"}##
-
-We are looking for a senior developer to play a key role in helping us change the world of business. We have a big vision and this is a ground floor position in achieving it, so it will have both the challenge and reward to match.
-
-[Check out the GOMentr job posting here](https://www.gomentr.com/resource/show/596){:target="_blank"}
-</div>
-
----
-<div class="well" markdown="1">
-## [Oilfield Exchange Inc](http://www.hse-trax.com/careers/­)
-
-
-Oilfield Exchange Inc. is looking for Ruby Developers. We're a young, funded, lean, agile, software and hardware start up innovating in the oil and gas Industry. We already have strong relationships and customers in US and Canada. We're well organized, which means that your effort, time and mind won't get wasted. We're led by business-savvy people that have done this before, and we actually respect the opinions that everyone in the organization brings. It doesn't mean your idea will win out all the time... but you can rest assured that your idea will get heard and considered.
-
-David Cooper(david.cooper -at- oilfieldx.com)
-</div>
----
-<div class="well" markdown="1">
 ## [![PetroFeed](assets/images/petrofeed-logo.png "Petrofeed")](http://petrofeed.com/company/careers){:target="_blank"}<small>Senior Platform Developer</small>##
 {: .logo.pf}
  
