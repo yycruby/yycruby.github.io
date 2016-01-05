@@ -38,31 +38,13 @@ Clio is a fast growing Rails shop located in Vancouver building collaboration to
 ---
 
 <div class="well" markdown="1">
-## [![PetroFeed](assets/images/petrofeed-logo.png "Petrofeed")](http://petrofeed.com/company/careers){:target="_blank"}<small>Senior Platform Developer</small>##
+## [![PetroFeed](assets/images/petrofeed-logo.png "Petrofeed")](http://petrofeed.com/company/careers){:target="_blank"}<small>UX Designer</small>##
 {: .logo.pf}
  
  <br>
  We’re looking for an extremely passionate individual who cares about building amazing products that people love to use.
  
  [Check out their careers section here](https://www.petrofeed.com/company/careers/platform){:target="_blank"}
-</div>
----
-
-<div class="well" markdown="1">
-## [![Vogogo](assets/images/vogogo-logo.png)](https://www.vogogo.com/){:target="_blank"}<small>Principal Software Engineer</small>##
-{: .logo.vogogo}
-
-Vogogo is an exciting, well-funded startup in the payment processing space.  With skyrocketing interest in crypto-currencies (“Bitcoin”), and the public’s desire for disruption in our industry, Vogogo is uniquely positioned to capitalize on market opportunities and create explosive growth. 
- 
-We’re building a “dream team” of Calgary’s best talent by hiring experienced, pragmatic, and smart individuals who share our vision and can simply “get things done” in any programming language we need.
- 
-As a Principal Software Engineer at Vogogo, you would be in on the ground floor of a small product development team — designing, building, testing, and deploying amazing features and new technology in a fast-paced startup environment.
- 
-You would be a key hire and expected to work closely with the CTO by taking responsibility for high level business goals, creating solutions, and delivering value to our customers.
- 
-<i>Vogogo only accepts Calgary-based applicants.</i>
-
-[Shoot them a message](https://www.vogogo.com/#Contact){:target="_blank"}
 </div>
 ---
 
